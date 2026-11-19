@@ -1,0 +1,37 @@
+[
+    {
+        "indice": 0,
+        "codigo_label": "1-Matrícula",
+        "titulo": "Matrícula",
+        "descricao": "Você escolhe seu curso, preenche o formulário de cadastro e dá o primeiro passo para começar sua jornada na Prisma Cursos.",
+        "icone_fa": "fa-solid fa-clipboard-list"
+    },
+    {
+        "indice": 1,
+        "codigo_label": "2-Aulas híbridas",
+        "titulo": "Aulas híbridas",
+        "descricao": "Aulas online para estudar no seu ritmo e aulas presenciais para trocar experiências, tirar dúvidas e aprender com outras pessoas.",
+        "icone_fa": "fa-solid fa-desktop"
+    },
+    {
+        "indice": 2,
+        "codigo_label": "3-Preparação",
+        "titulo": "Preparação",
+        "descricao": "Antes de ir para a prática, você revisa o que aprendeu, desenvolve suas habilidades e se prepara para os desafios da sua área.",
+        "icone_fa": "fa-solid fa-pen"
+    },
+    {
+        "indice": 3,
+        "codigo_label": "4-Prática",
+        "titulo": "Prática",
+        "descricao": "Laboratórios e projetos reais ajudam você a colocar seus conhecimentos em ação e construir experiência para o mercado de trabalho.",
+        "icone_fa": "fa-solid fa-person-chalkboard"
+    },
+    {
+        "indice": 4,
+        "codigo_label": "5-Primeira vaga",
+        "titulo": "Primeira vaga",
+        "descricao": "Novos desafios, nova fase! Prepare seu currículo, valorize suas habilidades e dê os próximos passos rumo à sua primeira oportunidade.",
+        "icone_fa": "fa-solid fa-briefcase"
+    }
+]

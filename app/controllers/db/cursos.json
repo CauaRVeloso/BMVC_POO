@@ -1,0 +1,92 @@
+[
+    {
+        "id": "web-design",
+        "titulo": "Web design",
+        "descricao": "Aprenda a criar sites responsivos e modernos.",
+        "categoria": "Design e Criatividade",
+        "classe_css": "rectangle-parent",
+        "icone": "icone_curso_web_design_sem_fundo.png",
+        "classe_icone": "icone-curso-web-design-sem-fundo",
+        "alt": "Ícone do curso de Web design"
+    },
+    {
+        "id": "photoshop",
+        "titulo": "Photoshop",
+        "descricao": "Domine a edição e criação de imagens para o mercado.",
+        "categoria": "Design e Criatividade",
+        "classe_css": "rectangle-group",
+        "icone": "icone_curso_photoshop_sem_fundo.png",
+        "classe_icone": "icone-curso-photoshop-sem-fundo",
+        "alt": "Ícone do curso de Photoshop"
+    },
+    {
+        "id": "ux-design",
+        "titulo": "UX Design",
+        "descricao": "Aprenda a projetar experiências digitais intuitivas.",
+        "categoria": "Design e Criatividade",
+        "classe_css": "rectangle-parent5",
+        "icone": "icone_curso_ux_design.png",
+        "classe_icone": "icone-curso-ux-design",
+        "alt": "Ícone do curso de UX Design"
+    },
+    {
+        "id": "ceo",
+        "titulo": "CEO",
+        "descricao": "Desenvolva sua visão de liderança e gestão para conduzir negócios.",
+        "categoria": "Gestão",
+        "classe_css": "rectangle-container",
+        "icone": "icone_curso_ceo.png",
+        "classe_icone": "icone-curso-ceo",
+        "alt": "Ícone do curso de CEO"
+    },
+    {
+        "id": "decisao-estrategica",
+        "titulo": "Decisão estratégica",
+        "descricao": "Aprenda a analisar cenários e tomar decisões assertivas.",
+        "categoria": "Estratégia",
+        "classe_css": "rectangle-parent2",
+        "icone": "icone_curso_planejamento_estrategico.png",
+        "classe_icone": "icone-curso-decisao-estrategica",
+        "alt": "Ícone do curso de Decisão estratégica"
+    },
+    {
+        "id": "ia",
+        "titulo": "I.A",
+        "descricao": "Ferramentas de Inteligência Artificial aplicadas.",
+        "categoria": "Tecnologia",
+        "classe_css": "rectangle-parent3",
+        "icone": "icone_curso_ia_letras_v2.png",
+        "classe_icone": "icone-curso-ia",
+        "alt": "Ícone do curso de Inteligência Artificial"
+    },
+    {
+        "id": "gestao-financeira",
+        "titulo": "Gestão Financeira",
+        "descricao": "Domine o fluxo de caixa e planejamento financeiro.",
+        "categoria": "Gestão",
+        "classe_css": "rectangle-parent4",
+        "icone": "icone_curso_gestao_financeira_v2.png",
+        "classe_icone": "icone-curso-gestao-financeira-v2",
+        "alt": "Ícone do curso de Gestão Financeira"
+    },
+    {
+        "id": "poo-em-java",
+        "titulo": "POO em Java",
+        "descricao": "Programação orientada a objetos com base prática.",
+        "categoria": "Tecnologia",
+        "classe_css": "rectangle-parent6",
+        "icone": "icone_curso_java_poligono_nova_paleta.png",
+        "classe_icone": "icone-curso-poo-em-java",
+        "alt": "Ícone do curso de POO em Java"
+    },
+    {
+        "id": "analise-de-dados",
+        "titulo": "Análise de Dados",
+        "descricao": "Desenvolva habilidade de transformar dados em insights.",
+        "categoria": "Tecnologia",
+        "classe_css": "rectangle-parent7",
+        "icone": "icone_curso_analise_de_dados_v3.png",
+        "classe_icone": "icone-curso-analise-de-dados",
+        "alt": "Ícone do curso de Análise de Dados"
+    }
+]
